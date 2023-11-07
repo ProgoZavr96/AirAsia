@@ -9,6 +9,7 @@
 
 .header__first {
     display: flex;
+    width: 1168px;
     align-items: center;
     margin-top: 29px;
 }

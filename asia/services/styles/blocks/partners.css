@@ -10,7 +10,7 @@
     color: #1A1B1E;
 }
 
-.partners__title--2 {
+.partners__title-text {
     font-size: 48px;
 }
 
@@ -22,6 +22,9 @@
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 117px;
+    align-items: center;
+    height: 188px;
+    align-content: space-between;
 }
 
 .partners__item {
@@ -30,16 +33,3 @@
     justify-content: space-between;
     margin-right: 57px;
 }
-
-.partnesr__list-first {
-    display: flex;
-    align-items: center;
-    flex: 1;
-}
-
-.partnesr__list-second {
-    display: flex;
-    align-items: center;
-    flex: 1;
-    margin-top: 88px;
-} 
