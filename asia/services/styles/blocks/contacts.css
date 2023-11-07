@@ -5,13 +5,13 @@
 
 .contacts__tel {
     font-size: 26px;
+    margin-left: 36px;
 }
 
 .graph {
     color: #FFF;
     font-size: 13px;
-    margin-left: 93px;
-    text-decoration-line: underline;
+    margin-left: 111px;
 }
 
 .graph__hover {
