@@ -1,0 +1,45 @@
+.partners {
+    display: flex;
+    flex-direction: column;
+    margin-top: 63px;
+    background: #F4F5F5;
+}
+
+.partners__title {
+    margin-top: 88px;
+    color: #1A1B1E;
+}
+
+.partners__title--2 {
+    font-size: 48px;
+}
+
+.partners__table {
+    margin-top: 79px;
+}
+
+.partners__list {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 117px;
+}
+
+.partners__item {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    margin-right: 57px;
+}
+
+.partnesr__list-first {
+    display: flex;
+    align-items: center;
+    flex: 1;
+}
+
+.partnesr__list-second {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    margin-top: 88px;
+} 
